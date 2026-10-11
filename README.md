@@ -1,11 +1,17 @@
-# 不烧心文学 bushaoxin
+<h1 align="center">不烧心文学 bushaoxin</h1>
 
-![License: MIT](https://img.shields.io/github/license/eatmoreduck/bushaoxin?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/eatmoreduck/bushaoxin?style=flat-square&logo=github)
-![Claude Code Skill](https://img.shields.io/badge/Claude_Code-Skill-7C3AED?style=flat-square)
-![万物皆可](https://img.shields.io/badge/万物皆可-不烧心-E8A33D?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/github/license/eatmoreduck/bushaoxin?style=flat-square" alt="License: MIT">
+  <img src="https://img.shields.io/github/stars/eatmoreduck/bushaoxin?style=flat-square&logo=github" alt="GitHub stars">
+  <img src="https://img.shields.io/badge/Claude_Code-Skill-7C3AED?style=flat-square" alt="Claude Code Skill">
+  <img src="https://img.shields.io/badge/万物皆可-不烧心-E8A33D?style=flat-square" alt="万物皆可不烧心">
+</p>
+
+<div align="center">
 
 > 贵是贵了点。但用了不烧心。
+
+</div>
 
 ![bushaoxin —— 短剧良心掌柜 × AI 终端](assets/banner.jpg)
 
