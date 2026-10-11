@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/github/license/eatmoreduck/bushaoxin?style=flat-square" alt="License: MIT">
   <img src="https://img.shields.io/github/stars/eatmoreduck/bushaoxin?style=flat-square&logo=github" alt="GitHub stars">
   <img src="https://img.shields.io/badge/Claude_Code-Skill-7C3AED?style=flat-square" alt="Claude Code Skill">
+  <img src="https://img.shields.io/badge/Codex-兼容-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex 兼容">
   <img src="https://img.shields.io/badge/万物皆可-不烧心-E8A33D?style=flat-square" alt="万物皆可不烧心">
 </p>
 
@@ -86,6 +87,8 @@ cp -r bushaoxin ~/.claude/skills/
 - Claude Code（CLI / IDE 插件）
 - claude.ai 网页版 / Claude Desktop
 - Claude API（Agent Skills）与 Claude Agent SDK
+- **OpenAI Codex**：兼容 Agent Skills 开放格式——纯 prompt、无脚本依赖，把 `SKILL.md` 内容并入 `AGENTS.md` 或自定义指令即可使用
+- 其他兼容 Agent Skills 开放格式的 agent：纯 prompt 型 skill，贴进 system prompt 就能跑
 - 欢迎各类 skill 聚合站、awesome 清单收录——先把规矩立住，路才能越走越宽。
 
 ## 玩法
