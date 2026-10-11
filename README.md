@@ -123,13 +123,18 @@ bushaoxin/
 
 ## 关注 & 支持
 
-扫码关注公众号，追更新、提需求、唠嗑：
-
-![公众号二维码](assets/official-account.jpg)
-
-觉得这碗不烧心，想请掌柜的喝碗汤：
-
-![赞赏码](assets/reward.png)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="assets/official-account.jpg" width="200" alt="公众号二维码"><br>
+      <sub>公众号 · 追更新、提需求、唠嗑</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="assets/reward.png" width="200" alt="赞赏码"><br>
+      <sub>觉得这碗不烧心，请掌柜的喝碗汤</sub>
+    </td>
+  </tr>
+</table>
 
 ## License
 
